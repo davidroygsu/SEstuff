@@ -1,0 +1,40 @@
+.flex {
+    display: flex;
+}
+
+main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#topbanner {
+    background-color: rgb(46, 53, 77);
+    width: 100%;
+    justify-content: center;
+}
+
+#botbanner {
+    border: 4px red solid;
+}
+
+#botleftbanner {
+    border: 4px purple dashed;
+    background-color: #f0efeb;
+    text-align: left;
+}
+
+#botrightbanner {
+    border: 4px blue dashed;
+    background-color: rgb(232, 233, 233); 
+}
+
+#down {
+    border: 4px sienna dashed;
+}
+
+#logo {
+    width: 60px;
+}
+
+#woman {
+    width: 100%;
+}
