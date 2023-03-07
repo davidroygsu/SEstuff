@@ -1,0 +1,16 @@
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
+
+.buyerbutton {
+    background-color: #d7862b !important;
+    color: #27536e !important;
+}
+
+.sellerbutton {
+    background-color: #27536e !important;
+    color: #d7862b !important;
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/5356221/pexels-photo-5356221.jpeg?cs=srgb&dl=pexels-roberto-hund-5356221.jpg&fm=jpg&w=6000&h=4000");
+}
